@@ -13,7 +13,7 @@ This project is a web scraper for Trustpilot reviews using Selenium.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Mimon-Xv/Capgemini_GroupX
     cd your-repo-name
     ```
 
@@ -24,7 +24,7 @@ This project is a web scraper for Trustpilot reviews using Selenium.
 
 ## Usage
 
-1. Update the [url](http://_vscodecontentref_/2) in [scraper.py](http://_vscodecontentref_/3) with the Trustpilot page you want to scrape.
+1. Update the [url] in [scraper.py] in the function main(), with the Trustpilot page you want to scrape.
 2. Run the scraper:
     ```sh
     python scraper.py
@@ -32,7 +32,7 @@ This project is a web scraper for Trustpilot reviews using Selenium.
 
 ## Files
 
-- [scraper.py](http://_vscodecontentref_/4): The main script for scraping Trustpilot reviews.
-- [requirements.txt](http://_vscodecontentref_/5): List of dependencies required for the project.
+- [scraper.py] --> The main script for scraping Trustpilot reviews.
+- [requirements.txt] -->  List of dependencies required for the project.
 - `README.md`: Project overview and setup instructions.
 
