@@ -26,8 +26,8 @@ This project is a collaboration between École Polytechnique students and Capgem
 ## Installation and Setup
 1. Clone the repository
     ```sh
-    git clone https://github.com/Mimon-Xv/Capgemini_GroupX
-    cd Capgemini_GroupX
+    git clone https://github.com/Mimon-Xv/Capgemini_Group4
+    cd Capgemini_Group4
     ``` 
 
 2. Install dependencies 
